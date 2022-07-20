@@ -1,0 +1,10 @@
+1- install "Arduino IDE" 1.8.19
+2- open Arduino IDE 
+3- select >> File>> prefernces >> 
+4- and copy URL: http://dl.espressif.com/dl/package_esp32_index.json and paste in prefrence >> ok
+5- select tools>> Board "Arduino uno">> Arduino manager>> type>> ESP32 >> install
+6- connect the ESP piece to USB to the laptop.
+7- select tools >>Board "Arduino uno">> ESP32 Arduino>> WEMOS D1 MINI ESP32
+8- select again tools >> port"COM3">>COM3
+9- to turn on the light slect File>> Examples >>01.Basic >> Blink
+10- wait for seconds for the light to turn on
